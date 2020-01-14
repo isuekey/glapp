@@ -1,0 +1,23 @@
+{
+  "name": "glapp",
+  "version": "0.0.1",
+  "description": "application for webgl, a simple project from learn and use webgl",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/isuekey/glapp.git"
+  },
+  "keywords": [
+    "application",
+    "webgl"
+  ],
+  "author": "liu.hanru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isuekey/glapp/issues"
+  },
+  "homepage": "https://github.com/isuekey/glapp#readme"
+}
