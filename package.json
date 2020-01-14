@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/isuekey/glapp/issues"
   },
-  "homepage": "https://github.com/isuekey/glapp#readme"
+  "homepage": "https://github.com/isuekey/glapp#readme",
+  "devDependencies": {
+    "webpack": "^4.41.5"
+  }
 }
